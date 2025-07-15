@@ -7,4 +7,7 @@ algolia.app-id=XXXXXX
 algolia.api-key=XXXXXX 
 algolia.index-name=products
 
-Note that the current recommended version is Java API Client v4 .
+Note that the current recommended version is Java API Client v4.
+
+This is the front end application developed in Django and Bootstrap.
+https://github.com/manuel-biggi/algolia-searchapp.git
